@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="30mm"
+   height="30mm"
+   viewBox="0 0 30 30"
+   version="1.1"
+   id="svg35008"
+   inkscape:version="1.1.2 (76b9e6a115, 2022-02-25)"
+   sodipodi:docname="lntcorp_logo202202.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview35010"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="3.0075196"
+     inkscape:cx="59.018734"
+     inkscape:cy="75.643729"
+     inkscape:window-width="1848"
+     inkscape:window-height="1016"
+     inkscape:window-x="1992"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs35005" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g11666-3"
+       transform="matrix(0.28386862,0,0,0.28386862,49.152807,73.088394)"
+       inkscape:export-filename="/home/sam/Pictures/lnt_logo202202.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <circle
+         style="fill:#ff6600;stroke:none;stroke-width:2.39662"
+         id="path1665-6"
+         cx="-120.03104"
+         cy="-204.34242"
+         r="50" />
+      <g
+         id="g11130-0"
+         transform="translate(0.48031251,-3.3846209)">
+        <rect
+           style="fill:#ffffff;stroke:none;stroke-width:2.31549"
+           id="rect1805-6"
+           width="20.712967"
+           height="50"
+           x="-140.2807"
+           y="-230.26262" />
+        <rect
+           style="fill:#ffffff;stroke:none;stroke-width:2.31549"
+           id="rect1805-9-2"
+           width="20.712967"
+           height="50"
+           x="-200.97559"
+           y="90.280693"
+           transform="rotate(90)" />
+      </g>
+    </g>
+  </g>
+</svg>
