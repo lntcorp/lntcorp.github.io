@@ -3,12 +3,12 @@ layout: post
 title: under construction!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
+![_config.yml]({{ site.baseurl }}/images/lntcorp_logo202202.svg)
 <table>
   <tr>
     <td>
-![_config.yml]({{ site.baseurl }}/images/lnt_logo202202.png)
+123
       </td>
   </tr>
 </table>
